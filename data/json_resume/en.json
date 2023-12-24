@@ -1,0 +1,110 @@
+{
+  "schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Luke Hooper",
+    "label": "Programmer",
+    "image": "https://example/luke-hooper.webp",
+    "email": "laaronhooper@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "I am a curious and self-motivated Software Developer seeking to expand my knowledge and skills in a collaborative and exciting environment. I am passionate about using technology to innovate and create technologies that deliver software solutions to business problems.",
+    "location": {
+      "address": "Fairlight",
+      "postalCode": "2000",
+      "city": "Sydney",
+      "countryCode": "AU",
+      "region": "NSW"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Luke Hooper",
+        "url": "https://www.linkedin.com/in/luke-hooper/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Canopus Networks",
+      "location": "Sydney, NSW",
+      "description": "AI for Telcos. Terabit-scale encryption-proof customer insights platform.",
+      "position": "Junior Software Developer",
+      "url": "https://canopusnetworks.com/",
+      "startDate": "2022-04-01",
+      "endDate": "2023-12-14",
+      "summary":"Terabit-scale encryption-proof customer insights platform.",
+      "highlights": [
+        "Implemented async reporting tooling for business-critical customer data. Enabling the quick sharing of key information about a network's traffic, aside from our dashboard.",
+        "Profiled web packet captures (PCAPs) to design fingerprinting profiles for various online services and entertainment providers via Deep Packet Inspection (DPI). This was used to expand the functionality of the core Canopus platforms in furthering network detection coverage.",
+        "Implemented features and fixes for Canopus’ historical and live dashboards responding to our client’s wants and needs. Upgrading parts of the systems simultaneously to move away from outdated legacy React practices.",
+        "Conducted and presented preliminary research on the LTE Network Architecture to our tech team, highlighting the data transmission and flow in mobile networks",
+        "Developed web scraping bots with Selenium to create traffic on service and entertainment providers, capturing Server Name Indicators (SNIs) in logs. These were used as a part of further traffic fingerprinting profiles."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Coder Academy",
+      "url": "https://coderacademy.edu.au/",
+      "area": "Information Technology",
+      "studyType": "Diploma",
+      "startDate": "2021-08-07",
+      "endDate": "2022-03-18"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": ["React", "HTML", "CSS", "Javascript", "Typescript", "Golang", "Tailwind", "SCSS", "Ruby on Rails", "Ruby"]
+    },
+    {
+      "name": "Traffic Profiling",
+      "level": "Master",
+      "keywords": ["Deep Packet Inspection (DPI)", "Packet Capturing", "Wireshark", "Pcap Analysis"]
+    },
+    {
+      "name": "Web Scraping",
+      "level": "Master",
+      "keywords": ["Python", "Selenium"]
+    },
+    {
+      "name": "Scripting",
+      "level": "Master",
+      "keywords": ["Python", "Bash"]
+    },
+    {
+      "name": "Miscellaneous",
+      "level": "Master",
+      "keywords": ["Git", "Docker", "yaml", "json", "toml", "markdown"]
+    },
+    {
+      "name": "Soft skills",
+      "level": "Advanced",
+      "keywords": ["Innovative", "critical thinking", "problem-solving", "leadership", "communication", "collaboration", "quick learning", "initiative"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": ["Soccer","Squash", "BJJ", "Running", "Rock Climbing"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Maheesha Perera",
+      "reference": ""
+    }
+  ],
+  "meta": {
+    "canonical": "",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
