@@ -1,8 +1,8 @@
 {
   "author": {
-    "email": "3743342+schnerring@users.noreply.github.com",
-    "name": "Michael Schnerring",
-    "url": "https://schnerring.net"
+    "email": "todog@email.com",
+    "name": "Luke Hooper",
+    "url": "https://todo.net"
   },
   "bugs": {
     "url": "https://github.com/schnerring/hugo-theme-gruvbox/issues"
@@ -57,7 +57,7 @@
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.1.1",
-    "husky": "^8.0.3",
+    "husky": "^8.0.0",
     "lint-staged": "^15.2.0",
     "markdownlint-cli": "^0.38.0",
     "postcss": "^8.4.32",
@@ -80,6 +80,7 @@
   ],
   "license": "MIT",
   "lint-staged": {
+    "*.{js,html,css,json}": "prettier --write",
     "*.css": "stylelint --fix --allow-empty-input",
     "*.js": "eslint --cache --fix",
     "*.md": "markdownlint --fix"
