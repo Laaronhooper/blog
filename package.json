@@ -54,11 +54,12 @@
   "devDependencies": {
     "@commitlint/config-conventional": "^18.4.3",
     "@fullhuman/postcss-purgecss": "^5.0.0",
+    "cspell": "^8.2.3",
     "cssnano": "^6.0.2",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.1.1",
-    "husky": "^8.0.0",
+    "husky": "^8.0.3",
     "lint-staged": "^15.2.0",
     "markdownlint-cli": "^0.38.0",
     "postcss": "^8.4.32",
@@ -82,10 +83,20 @@
   ],
   "license": "MIT",
   "lint-staged": {
-    "*.{js,html,css,json}": "prettier --write",
+    "*.{js,html,css}": [
+      "prettier --write",
+      "cspell"
+    ],
     "*.css": "stylelint --fix --allow-empty-input",
-    "*.js": "eslint --cache --fix",
-    "*.md": "markdownlint --fix"
+    "*.js": [
+      "eslint --cache --fix",
+      "cspell"
+    ],
+    "*.md": [
+      "markdownlint --fix",
+      "cspell"
+    ],
+    "*": "validate-branch-name"
   },
   "main": "index.js",
   "name": "hugo-theme-gruvbox",
