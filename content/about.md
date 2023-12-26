@@ -13,14 +13,17 @@ This theme depends on the following projects:
 - [Tabler Icons](https://tablericons.com/)
 - [Simple Icons](https://simpleicons.org/)
 - Content with the [#hugo-basic-example](/tags/hugo-basic-example) tag
-  originates from [gohugoio/hugoBasicExample](https://github.com/gohugoio/hugoBasicExample)
-
-A big thanks to the creators! ❤️
-
-The [profile picture of Richard Hendricks is from the Fandom Silicon Valley Wiki](https://silicon-valley.fandom.com/wiki/Richard_Hendricks?file=Richard_Hendricks.jpg).
+  originates from
+  [gohugoio/hugoBasicExample](https://github.com/gohugoio/hugoBasicExample)
+- Content with the [#hugo-basic-example](/tags/hugo-basic-example) tag
+  originates from
+  [gohugoio/hugoBasicExample](https://github.com/gohugoio/hugoBasicExample)
+- Theme originates from
+  [schnerring/hugo-theme-gruvbox](https://github.com/schnerring/hugo-theme-gruvbox)
 
 ## Legal
 
-The theme is [licensed under MIT](https://github.com/schnerring/hugo-theme-gruvbox/blob/main/LICENSE).
+The theme is
+[licensed under MIT](https://github.com/schnerring/hugo-theme-gruvbox/blob/main/LICENSE).
 
 All trademarks are the property of their respective owners.

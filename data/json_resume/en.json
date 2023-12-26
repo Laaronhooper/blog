@@ -92,8 +92,16 @@
   ],
   "interests": [
     {
+      "name": "Tech",
+      "keywords": ["Local first development","HATEOS", "Haskell", "CRDT's"]
+    },
+    {
       "name": "Sports",
       "keywords": ["Soccer","Squash", "BJJ", "Running", "Rock Climbing"]
+    },
+    {
+      "name": "Music",
+      "keywords": ["Surfaces","Double Camp", "Valley"]
     }
   ],
   "references": [
