@@ -3,7 +3,7 @@
   "basics": {
     "name": "Luke Hooper",
     "label": "Programmer",
-    "image": "https://laaronhooper.github.io/luke-hooper.webp",
+    "image": "https://laaronhooper.github.io/blog/luke-hooper.webp",
     "email": "laaronhooper@gmail.com",
     "phone": "+",
     "url": "",
@@ -20,6 +20,11 @@
         "network": "LinkedIn",
         "username": "Luke Hooper",
         "url": "https://www.linkedin.com/in/luke-hooper/"
+      },
+      {
+        "network": "Github",
+        "username": "Laaronhooper",
+        "url": "https://github.com/Laaronhooper/"
       }
     ]
   },
@@ -32,7 +37,7 @@
       "url": "https://canopusnetworks.com/",
       "startDate": "2022-04-01",
       "endDate": "2023-12-14",
-      "summary":"Terabit-scale encryption-proof customer insights platform.",
+      "summary": "Terabit-scale encryption-proof customer insights platform.",
       "highlights": [
         "Implemented async reporting tooling for business-critical customer data. Enabling the quick sharing of key information about a network's traffic, aside from our dashboard.",
         "Profiled web packet captures (PCAPs) to design fingerprinting profiles for various online services and entertainment providers via Deep Packet Inspection (DPI). This was used to expand the functionality of the core Canopus platforms in furthering network detection coverage.",
@@ -56,12 +61,28 @@
     {
       "name": "Web Development",
       "level": "Intermediate",
-      "keywords": ["React", "HTML", "CSS", "Javascript", "Typescript", "Golang", "Tailwind", "SCSS", "Ruby on Rails", "Ruby"]
+      "keywords": [
+        "React",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Typescript",
+        "Golang",
+        "Tailwind",
+        "SCSS",
+        "Ruby on Rails",
+        "Ruby"
+      ]
     },
     {
       "name": "Traffic Profiling",
       "level": "Master",
-      "keywords": ["Deep Packet Inspection (DPI)", "Packet Capturing", "Wireshark", "Pcap Analysis"]
+      "keywords": [
+        "Deep Packet Inspection (DPI)",
+        "Packet Capturing",
+        "Wireshark",
+        "Pcap Analysis"
+      ]
     },
     {
       "name": "Web Scraping",
@@ -81,7 +102,16 @@
     {
       "name": "Soft skills",
       "level": "Advanced",
-      "keywords": ["Innovative", "critical thinking", "problem-solving", "leadership", "communication", "collaboration", "quick learning", "initiative"]
+      "keywords": [
+        "Innovative",
+        "critical thinking",
+        "problem-solving",
+        "leadership",
+        "communication",
+        "collaboration",
+        "quick learning",
+        "initiative"
+      ]
     }
   ],
   "languages": [
@@ -93,15 +123,15 @@
   "interests": [
     {
       "name": "Tech",
-      "keywords": ["Local first development","HATEOS", "Haskell", "CRDT's"]
+      "keywords": ["Local first development", "HATEOS", "Haskell", "CRDT's"]
     },
     {
       "name": "Sports",
-      "keywords": ["Soccer","Squash", "BJJ", "Running", "Rock Climbing"]
+      "keywords": ["Soccer", "Squash", "BJJ", "Running", "Rock Climbing"]
     },
     {
       "name": "Music",
-      "keywords": ["Surfaces","Double Camp", "Valley"]
+      "keywords": ["Surfaces", "Double Camp", "Valley"]
     }
   ],
   "references": [
