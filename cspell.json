@@ -1,0 +1,12 @@
+{
+    "version": "0.1",
+    "language": "en",
+    "dictionaries": [
+        "en_US",
+        "en-gb",
+        "companies",
+        "softwareTerms",
+        "misc"
+    ],
+    "words": ["Wireshark", "bootcamp", "gobbledygook"]
+}
