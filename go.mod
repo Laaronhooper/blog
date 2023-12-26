@@ -1,4 +1,4 @@
-module github.com/schnerring/hugo-theme-gruvbox
+module github.com/laaronhooper/blog
 
 go 1.21
 

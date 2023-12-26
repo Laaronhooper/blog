@@ -1,11 +1,8 @@
 {
   "author": {
-    "email": "todog@email.com",
+    "email": "laaronhooper@gmail.com",
     "name": "Luke Hooper",
-    "url": "https://todo.net"
-  },
-  "bugs": {
-    "url": "https://github.com/schnerring/hugo-theme-gruvbox/issues"
+    "url": "https://laaronhooper.github.io/blog/"
   },
   "comments": {
     "dependencies": {
